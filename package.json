@@ -1,0 +1,33 @@
+{
+  "name": "node-assignment",
+  "version": "1.0.0",
+  "description": "Express RESTful API server",
+  "main": "dist/server.js",
+  "scripts": {
+    "start": "npm run build && node dist/server.js",
+    "dev": "nodemon",
+    "build": "tsc"
+  },
+  "keywords": [
+    "express",
+    "api",
+    "rest"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/morgan": "^1.9.10",
+    "@types/node": "^25.0.6",
+    "@types/uuid": "^10.0.0",
+    "nodemon": "^3.0.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}

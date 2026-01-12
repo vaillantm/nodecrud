@@ -112,6 +112,3 @@ Delete user cart
 
 ---
 
-**Q1:** Do you want bulk insert endpoints for products in xxxxxxxxx?
-**Q2:** Should product price validation block values below 0?
-**Q3:** Do you want cart totals returned automatically with each cart request?

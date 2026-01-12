@@ -88,7 +88,7 @@ http://localhost:3091/api/categories/id
 
 http://localhost:3091/api/products/id
 
-![Image 10] (public/images/image10.PNG)
+![Image 10](public/images/image10.PNG)
 
 
 
@@ -104,8 +104,7 @@ http://localhost:3091/api/categories/9fdaa8e1-d791-4199-8c44-836fbc5542de
         "description": "Gadgets and devices"
     }
  ```
-
- ![Image 12] (public/images/image12.PNG)
+![Image 12](public/images/image12.PNG)
 
 
 
@@ -123,7 +122,7 @@ http://localhost:3091/api/products
   "inStock": true,
   "quantity": 10
 }
-![Image 11] (public/images/image11.PNG)
+![Image 11](public/images/image11.PNG)
 
 
 
